@@ -1,7 +1,7 @@
 Hi 👋 My name is Erick Were
 ===========================
 
-Senior Software Engineer-Android
+Senior Software Engineer
 --------------------------------
 
 Im an Experienced Fullstack Developer with over Seven years of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
