@@ -1,15 +1,44 @@
-Hi 👋 My name is Erick Were
-===========================
+# Hi 👋 I'm Erick Were
 
-Senior Software Engineer
---------------------------------
+## 🌐 Senior Software Engineer | Fullstack & Mobile Developer
 
-Im an Experienced Fullstack Developer with over Seven years of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
+I'm an experienced Fullstack Developer with **over 9 years** of enterprise-level experience delivering scalable software and mobile solutions across **Fintech, Banks, Universities, and Telecom sectors**.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [erickwoo6@hotmail.com](mailto:erickwoo6@hotmail.com)
-* 🧠  I'm learning New Concepts in Kotlin
-* 🤝  I'm open to collaborating on In kotlin,Java, Android ,Ios
+I specialize in **web** stack development using:
+- **Frontend:** ReactJS, Bootstrap, Tailwind, Next.js  
+- **Backend:** Node.js, Express, Firebase, Python Django  
+- **Mobile:** Kotlin, Java (Android), Swift (iOS)  
+- **Databases:** MongoDB, Firebase Realtime/Firestore, PostgreSQL, MySQL  
+
+I have a strong understanding of **UI/UX design principles**, **animations**, **MVP architecture**, and **complex system designs**. I enjoy building **innovative user experiences** by collaborating with designers, and rapidly prototyping to validate ideas.
+
+---
+
+### 🚀 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Kotlin, Java, Swift  
+- **Frameworks:** React, Node.js, Express, Django, Jetpack Compose, Firebase  
+- **Databases:** MongoDB, PostgreSQL, Firebase, MySQL  
+- **Cloud & Tools:** Git, GitHub, Vercel, Render, Firebase Hosting  
+
+---
+
+### 📌 Current Focus
+- 🌱 I'm currently learning advanced concepts in **Kotlin**  
+- 🤝 I'm open to collaborations on:
+  - Android (Kotlin/Java)
+  - iOS (Swift)
+  - Web applications using **React, Node, Django, Firebase**
+
+---
+
+### 📫 Contact Me
+- 📍 Nairobi, Kenya  
+- 📧 Email: [erickwoo6@hotmail.com](mailto:erickwoo6@hotmail.com)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/erick-wetiba-senior-python-django-dev/)_
+
+---
+
+> Let's build smart, scalable, and user-centric applications together!
 
 ### Skills
 
